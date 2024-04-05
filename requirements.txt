@@ -1,0 +1,5 @@
+TgCrypto
+Pyrogram
+yt_dlp
+youtube_search
+requests
